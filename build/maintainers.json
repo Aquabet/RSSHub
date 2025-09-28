@@ -1925,6 +1925,9 @@
   "/curius/links/:name": [
     "Ovler-Young"
   ],
+  "/cursor/blog/:topic?": [
+    "johan456789"
+  ],
   "/cursor/changelog": [
     "p3psi-boo",
     "nczitzk"
@@ -2488,6 +2491,9 @@
   ],
   "/ecust/jwc/:category?": [
     "lxl66566"
+  ],
+  "/eeo/kuaixun": [
+    "nczitzk"
   ],
   "/egsea/flash": [
     "hillerliao"
@@ -9246,6 +9252,9 @@
   ],
   "/zju/career/:type": [
     "Caicailiushui"
+  ],
+  "/zju/cse/:category?": [
+    "Rabbits-sys"
   ],
   "/zju/cst/custom/:id": [
     "zwithz"

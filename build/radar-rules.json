@@ -12370,6 +12370,15 @@
     "_name": "Cursor",
     ".": [
       {
+        "title": "Blog",
+        "docs": "https://docs.rsshub.app/routes/blog",
+        "source": [
+          "/blog",
+          "/blog/topic/:topic"
+        ],
+        "target": "/cursor/blog/:topic"
+      },
+      {
         "title": "Changelog",
         "docs": "https://docs.rsshub.app/routes/program-update",
         "source": [
@@ -14289,6 +14298,19 @@
           "/"
         ],
         "target": "/ecust/yjs"
+      }
+    ]
+  },
+  "eeo.com.cn": {
+    "_name": "经济观察网",
+    "www": [
+      {
+        "title": "快讯",
+        "docs": "https://docs.rsshub.app/routes/finance",
+        "source": [
+          "/kuaixun/"
+        ],
+        "target": "/eeo/kuaixun"
       }
     ]
   },
